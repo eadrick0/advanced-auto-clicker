@@ -1,1 +1,2 @@
-## sadece bir makro
+## from eadrick
+just auto clicker
